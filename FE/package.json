@@ -1,10 +1,10 @@
 {
-  "name": "spectre-react-docker-boilerplate",
+  "name": "bulma-react-docker-boilerplate",
   "version": "1.0.0",
-  "description": "Fullstack boilerplate using Spectre CSS",
-  "repository": "https://github.com/owattersIT/spectre-react-docker-boilerplate.git",
-  "author":"Amit Gupta <amit@owatters.com>",
-    "babel": {
+  "description": "Fullstack boilerplate using Bulma ",
+  "repository": "https://github.com/owattersIT/bulma-react-docker-boilerplate.git",
+  "author": "Amit Gupta <amit@owatters.com>",
+  "babel": {
     "presets": [
       "@babel/preset-env",
       "@babel/preset-react"
@@ -42,7 +42,9 @@
     "react-scrollbar": "0.5.4",
     "react-cookie": "3.0.8",
     "sfcookies": "1.0.2",
-    "spectre.css": "latest"
+    "bulma": "0.7.4",
+    "bulma-extensions": "6.2.0",
+    "bulma-admin-bar": "1.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -50,6 +52,3 @@
     "prestart": "npm  install "
   }
 }
-
-  
-  

@@ -1,6 +1,6 @@
 # spectre-react-docker-boilerplate
 
-### This is a boilerplate to kickstart the project based on ReactJS, Spectre CSS and NodeJS APIs in docker environment. It also has FontAwesome react component and Python docker setup
+### This is a boilerplate to kickstart the project based on ReactJS, Bulma and NodeJS APIs in docker environment. It also has FontAwesome react component and Python docker setup
 > 
 Run docker-compose up web to bring up the -
 > 
