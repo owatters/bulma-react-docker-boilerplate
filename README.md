@@ -1,4 +1,4 @@
-# spectre-react-docker-boilerplate
+# bulma-react-docker-boilerplate
 
 ### This is a boilerplate to kickstart the project based on ReactJS, Bulma and NodeJS APIs in docker environment. It also has FontAwesome react component and Python docker setup
 > 
